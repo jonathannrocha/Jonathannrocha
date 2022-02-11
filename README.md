@@ -1,4 +1,3 @@
-## Oiii eu sou a Jonathan Rocha, estudante de programação com foco no Front-end!
 <div align="center">
   <a href="https://github.com/jonathannrocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathannrocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
