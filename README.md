@@ -1,7 +1,7 @@
  <img align="center" alt="Rafa-CSS" src="https://i0.wp.com/www.deviante.com.br/wp-content/uploads/2018/11/HelloWorld.jpg?fit=1000%2C350"> <br/>
 
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathannrocha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannrocha&layout=compact&langs_count=7&theme=github_dark"/>
