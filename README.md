@@ -1,10 +1,10 @@
- <img align="center" alt="Rafa-CSS" src="https://i0.wp.com/www.deviante.com.br/wp-content/uploads/2018/11/HelloWorld.jpg?fit=1000%2C350"> <br/>
+ <img align="center" alt="ROcha-CSS" src="https://i0.wp.com/www.deviante.com.br/wp-content/uploads/2018/11/HelloWorld.jpg?fit=1000%2C350"> <br/>
 
 
 <div align="center">
   <a href="https://github.com/jonathannrocha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathannrocha&show_icons=true&theme=dark&include_all_commits=true&layout=compact&langscount_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannrocha&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jonathannrocha&show_icons=true&theme=dark&include_all_commits=true&layout=compact&langscount_private=true"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannrocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
